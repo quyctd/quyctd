@@ -7,7 +7,6 @@
 <a href="https://www.linkedin.com/in/qu%C3%BD-%C4%91inh-c%C3%B4ng-22a528165/">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-![](https://visitor-badge.glitch.me/badge?page_id=quyctd.quyctd)
 <br/>
 <br/>
 
