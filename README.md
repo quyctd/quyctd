@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**quyctd/quyctd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm [quyctd!](https://github.com/quyctd) 👋
 
 Here are some ideas to get you started:
 
@@ -13,4 +10,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
