@@ -1,6 +1,7 @@
 ### Hi there, I'm [quyctd!](https://github.com/quyctd) 👋
-
-<br/>
+<a href="#">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=lamhoangtung&show_icons=true&theme=default">
+</a>
 <a href="https://www.facebook.com/akashi.211">
   <img align="left" alt="Hemant Joshi| Facebook" width="22px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2017/240/iconmonstr-facebook-6.png" />
 </a>
