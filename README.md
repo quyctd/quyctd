@@ -8,7 +8,7 @@
 <a href="https://www.linkedin.com/in/andrewdinh98/">
   <img align="left" alt="Quyctd | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-
+<br/><br/>
 
 I am a software engineer from Vietnam 🇻🇳
 I'm currently into **Web Development, Machine Learning, Micro Services, System Design 😼**
