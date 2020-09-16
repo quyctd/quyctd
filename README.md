@@ -9,9 +9,8 @@
   <img align="left" alt="Quyctd | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<br/>
+
 I am a software engineer from Vietnam 🇻🇳
-<br/>
 I'm currently into **Web Development, Machine Learning, Micro Services, System Design 😼**
 
 📫 How to reach me: quy.dc98@gmail.com
