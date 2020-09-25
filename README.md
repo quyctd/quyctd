@@ -12,6 +12,8 @@
 
 I am a software engineer from Vietnam 🇻🇳
 <br/><br/>
+I'm looking for opportunities to diversify my skillset. I am interested in developing a wide range of skills in diverse fields that would complement each other in unexpected ways. So I engrained this idea to my lifestyle, and created a goal of learning one new thing in depth every trimester.
+<br/><br/>
 I'm currently into **Web Development, Machine Learning, Micro Services, System Design 😼**
 
 📫 &nbsp; How to reach me: quy.dc98@gmail.com
