@@ -1,6 +1,6 @@
 ### Hi there, I'm [quyctd!](https://github.com/quyctd) 👋
 <a href="#">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=quyctd&show_icons=true&theme=default">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=quyctd&show_icons=true&theme=algolia">
 </a>
 
 I am a software engineer from Vietnam 🇻🇳
