@@ -1,6 +1,6 @@
 ### Hi there, I'm [quyctd!](https://github.com/quyctd) 👋
 
-I am a software engineer from Vietnam 🇻🇳
+I am a software engineer, working at [@line](https://github.com/line) (🇻🇳 branch), living in Hanoi city 🏙
 <br/>
 I am interested in developing a wide range of skills in diverse fields that would complement each other in unexpected ways. So I engrained this idea to my lifestyle, and created a goal of learning one new thing in depth every trimester.
 <br/>
