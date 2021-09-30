@@ -11,3 +11,4 @@ I am interested in developing a wide range of skills in diverse fields that woul
   <img src="https://github-readme-stats.vercel.app/api?username=quyctd&count_private=true">
 </a>
  -->
+[![](https://komarev.com/ghpvc/?username=quyctd&style=flat-square&color=brightgreen)](https://www.quyctd.dev)
