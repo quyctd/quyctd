@@ -11,4 +11,7 @@ I am interested in developing a wide range of skills in diverse fields that woul
   <img src="https://github-readme-stats.vercel.app/api?username=quyctd&count_private=true">
 </a>
  -->
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/quyctd/quyctd/output/github-contribution-grid-snake-dark.svg?palette=github-dark#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/quyctd/quyctd/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
 [![](https://komarev.com/ghpvc/?username=quyctd&style=flat-square&color=brightgreen)](https://www.quyctd.dev)
